@@ -2,7 +2,7 @@
 
 The Car Rental System is a Java-based program that provides a convenient and easy way for users to rent cars from a rental company. Users can register on the platform and select available cars to rent. When renting a car, users have the option to purchase insurance or decline it. They are required to provide their credit card information or insurance company. 
 
-The rental prices are higher during the weekdays than on weekends.??? Users can rent one car at a time and return it after their rental period is over. The platform also allows users to view their rental information. 
+Users can rent one car at a time and return it after their rental period is over. The platform also allows users to view their rental information. 
 
 Overall, the Car Rental System provides a user-friendly and efficient way for customers to rent cars from a reputable rental company. 
 
